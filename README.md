@@ -26,7 +26,8 @@ console.log("quem sou?"+umPoucoMais)
 ~~~html
  <p>html não é uma linguagem de promação é uma linguagem de marcação de codigo</p>
 ~~~
-  <a href="https://www.linkedin.com/in/carlos-zeferino-buttner-424030308/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p>vai me segueno link vai 💞️</p>
+  <a href="https://www.linkedin.com/in/carlos-zeferino-buttner-424030308/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a>vai me segue lá nem da trabalho</a>
 
 
 
