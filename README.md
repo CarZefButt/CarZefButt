@@ -26,6 +26,7 @@ console.log("quem sou?"+umPoucoMais)
 ~~~html
  <p>html não é uma linguagem de promação é uma linguagem de marcação de codigo</p>
 ~~~
+  <a href="https://www.linkedin.com/in/carlos-zeferino-buttner-424030308/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - 👋 Hi, I’m @CarZefButt
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
